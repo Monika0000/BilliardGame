@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Features>
+   <Common>
+       <EvoCompiler Value="true"/>
+       <CompilePDB Value="false"/>
+
+       <UpdateScripts Value="false"/>
+       <UseEditorGUIScript Value="false"/>
+       <ColorBufferPick Value="true"/>
+
+       <CrashHandler Value="false"/>
+
+       <DebugChunks Value="true"/>
+       <DebugRegions Value="true"/>
+       <ChunkSystem Value="true"/>
+
+       <EditorOnStartup Value="true"/>
+       <EditorCamera Value="true"/>
+       <EditorWidgetsDocking Value="true"/>
+       <InputIgnoreNonFocusedWidgets Value="true"/>
+       <UpdateNonHoveredSceneViewer Value="false"/>
+
+       <AutoReloadResources Value="true"/>
+
+       <RayTracing Value="true"/>
+
+       <FastModelsLoad Value="false"/>
+
+       <Renderer Value="true"/>
+       <Physics Value="true"/>
+
+       <LoadSkybox Value="false"/>
+       <SkyboxCPUUsage Value="false"/>
+       <VulkanValidation Value="true"/>
+       <MultiRenderTargets Value="false"/>
+       <SingleUBOIdentifierMode Value="false"/>
+   </Common>
+</Features>

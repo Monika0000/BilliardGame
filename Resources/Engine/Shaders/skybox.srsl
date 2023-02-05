@@ -1,0 +1,23 @@
+ShaderType Skybox;
+
+PolygonMode Fill;
+CullMode Back;
+DepthCompare LessOrEqual;
+PrimitiveTopology TriangleList;
+BlendEnabled false;
+DepthWrite true;
+DepthTest true;
+
+void fragment() {
+	COLOR = texture(SKYBOX_DIFFUSE, UV);
+}
+
+void vertex() {
+    // const vec3 vertices[3] = {
+    //     vec3(0, 0, 0),
+    //     vec3(0, 0, 0),
+    //     vec3(0, 0, 0)
+    // }
+
+
+}

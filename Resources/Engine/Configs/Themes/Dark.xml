@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<Theme>
+	<Colors>
+		<ImGuiCol_Text R="1" G="1" B="1" A="1" />
+		<ImGuiCol_NavWindowingHighlight R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_NavHighlight R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_ChildBg R="0.2800000011920929" G="0.2800000011920929" B="0.2800000011920929" A="0" />
+		<ImGuiCol_WindowBg R="0.18000000715255737" G="0.18000000715255737" B="0.18000000715255737" A="1" />
+		<ImGuiCol_TextDisabled R="0.5" G="0.5" B="0.5" A="1" />
+		<ImGuiCol_PopupBg R="0.31299999356269836" G="0.31299999356269836" B="0.31299999356269836" A="1" />
+		<ImGuiCol_BorderShadow R="0" G="0" B="0" A="0" />
+		<ImGuiCol_SeparatorHovered R="0.39100000262260437" G="0.39100000262260437" B="0.39100000262260437" A="1" />
+		<ImGuiCol_Border R="0.26600000262260437" G="0.26600000262260437" B="0.26600000262260437" A="1" />
+		<ImGuiCol_FrameBg R="0.15999999642372131" G="0.15999999642372131" B="0.15999999642372131" A="1" />
+		<ImGuiCol_FrameBgHovered R="0.20000000298023224" G="0.20000000298023224" B="0.20000000298023224" A="1" />
+		<ImGuiCol_Header R="0.31299999356269836" G="0.31299999356269836" B="0.31299999356269836" A="1" />
+		<ImGuiCol_PlotHistogram R="0.58600002527236938" G="0.58600002527236938" B="0.58600002527236938" A="1" />
+		<ImGuiCol_FrameBgActive R="0.2800000011920929" G="0.2800000011920929" B="0.2800000011920929" A="1" />
+		<ImGuiCol_TitleBgCollapsed R="0.14800000190734863" G="0.14800000190734863" B="0.14800000190734863" A="1" />
+		<ImGuiCol_TitleBg R="0.14800000190734863" G="0.14800000190734863" B="0.14800000190734863" A="1" />
+		<ImGuiCol_TitleBgActive R="0.14800000190734863" G="0.14800000190734863" B="0.14800000190734863" A="1" />
+		<ImGuiCol_Separator R="0.26600000262260437" G="0.26600000262260437" B="0.26600000262260437" A="1" />
+		<ImGuiCol_MenuBarBg R="0.19499999284744263" G="0.19499999284744263" B="0.19499999284744263" A="1" />
+		<ImGuiCol_ScrollbarBg R="0.15999999642372131" G="0.15999999642372131" B="0.15999999642372131" A="1" />
+		<ImGuiCol_CheckMark R="1" G="1" B="1" A="1" />
+		<ImGuiCol_ScrollbarGrab R="0.27700001001358032" G="0.27700001001358032" B="0.27700001001358032" A="1" />
+		<ImGuiCol_ScrollbarGrabHovered R="0.30000001192092896" G="0.30000001192092896" B="0.30000001192092896" A="1" />
+		<ImGuiCol_ScrollbarGrabActive R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_SliderGrab R="0.39100000262260437" G="0.39100000262260437" B="0.39100000262260437" A="1" />
+		<ImGuiCol_SliderGrabActive R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_Button R="1" G="1" B="1" A="0" />
+		<ImGuiCol_ButtonHovered R="1" G="1" B="1" A="0.15600000321865082" />
+		<ImGuiCol_TextSelectedBg R="1" G="1" B="1" A="0.15600000321865082" />
+		<ImGuiCol_ButtonActive R="1" G="1" B="1" A="0.39100000262260437" />
+		<ImGuiCol_HeaderHovered R="0.46900001168251038" G="0.46900001168251038" B="0.46900001168251038" A="1" />
+		<ImGuiCol_PlotHistogramHovered R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_HeaderActive R="0.46900001168251038" G="0.46900001168251038" B="0.46900001168251038" A="1" />
+		<ImGuiCol_SeparatorActive R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_ResizeGrip R="1" G="1" B="1" A="0.25" />
+		<ImGuiCol_ResizeGripHovered R="1" G="1" B="1" A="0.67000001668930054" />
+		<ImGuiCol_ResizeGripActive R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_PlotLines R="0.46900001168251038" G="0.46900001168251038" B="0.46900001168251038" A="1" />
+		<ImGuiCol_PlotLinesHovered R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_ModalWindowDimBg R="0" G="0" B="0" A="0.58600002527236938" />
+		<ImGuiCol_TabHovered R="0.35199999809265137" G="0.35199999809265137" B="0.35199999809265137" A="1" />
+		<ImGuiCol_DragDropTarget R="1" G="0.39100000262260437" B="0" A="1" />
+		<ImGuiCol_NavWindowingDimBg R="0" G="0" B="0" A="0.58600002527236938" />
+		<ImGuiCol_DockingEmptyBg R="0.18000000715255737" G="0.18000000715255737" B="0.18000000715255737" A="1" />
+		<ImGuiCol_Tab R="0.097999997437000275" G="0.097999997437000275" B="0.097999997437000275" A="1" />
+		<ImGuiCol_TabActive R="0.19499999284744263" G="0.19499999284744263" B="0.19499999284744263" A="1" />
+		<ImGuiCol_TabUnfocused R="0.097999997437000275" G="0.097999997437000275" B="0.097999997437000275" A="1" />
+		<ImGuiCol_TabUnfocusedActive R="0.19499999284744263" G="0.19499999284744263" B="0.19499999284744263" A="1" />
+		<ImGuiCol_DockingPreview R="1" G="0.39100000262260437" B="0" A="0.78100001811981201" />
+	</Colors>
+	<Sizes>
+		<WindowPadding X="4" Y="4" />
+		<WindowMinSize X="32" Y="32" />
+		<WindowTitleAlign X="0" Y="0.5" />
+		<FramePadding X="6" Y="4" />
+		<TouchExtraPadding X="0" Y="0" />
+		<ItemSpacing X="6" Y="2" />
+		<ItemInnerSpacing X="4" Y="4" />
+		<ButtonTextAlign X="0.5" Y="0.5" />
+		<SelectableTextAlign X="0" Y="0" />
+		<DisplayWindowPadding X="19" Y="19" />
+		<DisplaySafeAreaPadding X="3" Y="3" />
+	</Sizes>
+	<Floats>
+		<TabBorderSize value="1" />
+		<Alpha value="1" />
+		<WindowRounding value="3" />
+		<ChildRounding value="3" />
+		<PopupRounding value="3" />
+		<WindowBorderSize value="1" />
+		<ChildBorderSize value="1" />
+		<PopupBorderSize value="1" />
+		<FrameRounding value="3" />
+		<FrameBorderSize value="1" />
+		<IndentSpacing value="21" />
+		<LogSliderDeadzone value="4" />
+		<ColumnsMinSpacing value="6" />
+		<ScrollbarSize value="13" />
+		<ScrollbarRounding value="2" />
+		<GrabMinSize value="7" />
+		<CurveTessellationTol value="1.25" />
+		<GrabRounding value="3" />
+		<TabRounding value="3" />
+		<TabMinWidthForCloseButton value="0" />
+		<MouseCursorScale value="1" />
+	</Floats>
+	<Booleans>
+		<AntiAliasedLines value="1" />
+		<AntiAliasedLinesUseTex value="1" />
+		<AntiAliasedFill value="1" />
+	</Booleans>
+</Theme>
